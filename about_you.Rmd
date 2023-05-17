@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Dorothy Decker"
 output: 
   html_document:
     number_sections: true
@@ -18,6 +18,8 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
+I went to Colony High school, in Ontario, California. In high school English was easier for me, personally! Although, I really enjoyed Pre-Calculus, Solving the homework was fun. I did best in my government class, mostly because I found current events interesting. I also enjoyed debating with other students in that class.
+
 
      
 
